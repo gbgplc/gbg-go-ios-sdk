@@ -12,8 +12,8 @@ let package = Package(
     targets: [
         .binaryTarget(
   name: "GBGBridge",
-  url: "https://github.com/gbgplc/gbg-go-ios-sdk/releases/download/ios-bridge-v1.0.0/GBGBridge.xcframework.zip",
-  checksum: "aeda58c504a3f9263bdea8bafc02149ff471f3cf78318979ebc847a60f7e80af"
+  url: "https://github.com/gbgplc/gbg-go-ios-sdk/releases/download/ios-bridge-v1.1.0/GBGBridge.xcframework.zip",
+  checksum: "275a3be7d20d5618a872834c4c4b3af9a145eaea45c8f9d20e4604bfeb58bef8"
         )
     ]
 )
